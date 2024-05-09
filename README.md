@@ -6,7 +6,8 @@ O **Proxy** é um padrão de projeto estrutural que permite que você forneça u
 
 ![Imagem Problema](problem.png)
 
-![Imagem Solução](solution.png)
+![Imagem Solução
+](solution.png)
 
 ## Código exemplo de um **Proxy**
 
