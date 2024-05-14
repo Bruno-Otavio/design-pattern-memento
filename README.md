@@ -95,7 +95,7 @@ clientCode(realSubject);
 
 console.log('');
 
-console.log('Client: Executanco o mesmo cliente com uma Proxy:');
+console.log('Client: Executando o mesmo cliente com uma Proxy:');
 const proxy = new ProxySubject(realSubject);
 clientCode(proxy);
 ```
